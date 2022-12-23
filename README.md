@@ -44,6 +44,10 @@ You may test out these routes by going to [AnimeAPI demo](https://animeapi-demo.
 ### AnimeAPI docs available at [this link](https://igrohan.gitbook.io/animeapi/)
 All routes and also installation instructions available here!
 
+## Live Testing
+Api is hosted on https://animfan.vercel.app/ 
+you're welcome to test it.
+
 ## Contributing
 
 Contributions are always welcome!
